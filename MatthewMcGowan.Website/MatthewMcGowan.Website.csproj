@@ -75,6 +75,7 @@
     <Content Include="css\font\custom-icons.eot" />
     <Content Include="css\font\custom-icons.ttf" />
     <Content Include="css\font\custom-icons.woff" />
+    <None Include="Properties\PublishProfiles\MatthewMcGowanWebsite.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
