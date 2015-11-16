@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="css\font\custom-icons.svg" />
     <Content Include="images\Bicycle.png" />
+    <Content Include="images\Me.png" />
     <Content Include="images\Octocat.png" />
     <Content Include="images\Placeholder.png" />
     <Content Include="images\travel.png" />
