@@ -1,4 +1,6 @@
 # MatthewMcGowan.Website
 My Personal Website
 
-matthewmcgowan.co.uk
+www.matthewmcgowan.co.uk
+
+Single page, Bootstrap, JavaScript/JQuery, CSS, hosted on Azure.
